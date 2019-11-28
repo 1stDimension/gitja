@@ -1,6 +1,6 @@
 # GitJa
 Project to make jinja2 powered githooks
 
-## Installatio
+## Installation
 
 ## Configuration
